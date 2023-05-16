@@ -1,2 +1,2 @@
-# UIC-CS141
-Project and Notes for CS 141
+# UIC CS141
+Repository containing executable project solutions and course notes.
