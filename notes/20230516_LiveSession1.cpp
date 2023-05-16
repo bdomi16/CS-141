@@ -1,7 +1,15 @@
-/// @file 20230516.cpp
+/// @file 20230516_LiveSession1.cpp
 /// @author Adam T Koehler, PhD
 /// @date May 16, 2023
-/// @brief Code and notes from the live session on basic C++.
+/// @brief Code and lecture notes from the live session on basic C++.
+
+// Copyright Notice
+// This document is protected by U.S. copyright law. Reproduction and 
+// distribution of this work, including posting or sharing through any medium, 
+// is explicitly prohibited by law, and also violates UIC's Student 
+// Disciplinary Policy (A2-c. Unauthorized Collaboration; and A2-e3. 
+// Participation in Academically Dishonest Activities: Material Distribution). 
+
 
 // We always want to be specific with our included libraries.
 // We should only include what we use, and not just everything
