@@ -15,6 +15,16 @@
 
 using namespace std;
 
+int roll(int x)
+{
+    srand(0);
+    int r = rand();
+    cout << r << endl;
+    
+    return 0;
+    
+}
+
 int main()
 {
     return 0;
